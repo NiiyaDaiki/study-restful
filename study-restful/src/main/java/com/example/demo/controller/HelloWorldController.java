@@ -13,7 +13,7 @@ public class HelloWorldController {
 
 	@GetMapping("/hello-world")
 	public String helloWorld() {
-		return "hello world!!!!!!!!!!!!";
+		return "hello world!!!!!!!!!!!!!";
 	}
 
 	@GetMapping("/hello-world-bean")
